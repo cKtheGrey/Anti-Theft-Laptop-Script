@@ -5,12 +5,27 @@ The idea behind this script is to potentially catch a thief, and it does so by d
 
 
 Test Deployment 
-! [ezgif.com-gif-maker.gif]
+! [[ezgif.com-gif-maker.gif]
+
+
 
 
 
 Auto Webcam Shot of Perpetrator
-![] (https://static.wixstatic.com/media/52e0f7_108378a928164fa1b6eb8d669ef3f0df~mv2.png/v1/crop/x_107,y_64,w_1392,h_230/fill/w_1592,h_264,al_c,lg_1,q_90,enc_auto/screen%201.png)
+![] 
+
+
+
+![] 
+![] 
+![] 
+![] 
+![] 
+![] 
+![] 
+![] 
+
+
 
 
 
