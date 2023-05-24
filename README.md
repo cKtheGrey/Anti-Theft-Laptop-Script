@@ -4,4 +4,5 @@ The idea behind this script is to potentially catch a thief, and it does so by d
 Please take a look at my website to see some screenshots and explanation of the code: https://chadhakrish.wixsite.com/hello
 
 
-or Please take a look at a video demonstration here: https://www.youtube.com/watch?v=BQAJEMQqUxo&pp=ygUXYW50aSB0aGVmIGxhcHRvcCBzY3JpcHQ%3D
+or Please take a look at a video demonstration here: 
+https://www.youtube.com/watch?v=BQAJEMQqUxo&pp=ygUXYW50aSB0aGVmIGxhcHRvcCBzY3JpcHQ%3D
