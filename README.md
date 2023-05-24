@@ -5,7 +5,7 @@ The idea behind this script is to potentially catch a thief, and it does so by d
 
 
 Test Deployment 
-! [[ezgif.com-gif-maker.gif]
+! [[[ezgif.com-gif-maker.gif](https://imgur.com/YKrVvbF)]
 
 
 
