@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=BQAJEMQqUxo&pp=ygUXYW50aSB0aGVmIGxhcHRvcCBzY3Jpc
 
 
 
-### *Emails come in (Can also be sent to our ssh server)*
+### *Emails come in (Can also be sent to our ssh server).*
 
 <img width="1125" alt="email comes in" src="https://github.com/cKtheGrey/Anti-Theft-Laptop-Script/assets/116237908/59ad7a0c-dabb-43c6-9b2a-aaebf5bddcc1">
 
@@ -47,30 +47,30 @@ https://www.youtube.com/watch?v=BQAJEMQqUxo&pp=ygUXYW50aSB0aGVmIGxhcHRvcCBzY3Jpc
 
 
 
-### *Download to Keylogged info*
+### *Download to Keylogged info.*
 
 <img width="785" alt="transfer sh files" src="https://github.com/cKtheGrey/Anti-Theft-Laptop-Script/assets/116237908/cd66a7a0-fade-4517-a00e-9949d6e2904a">
 
 
 
-### *We can see the sample text we wrote out in the deployment test has shown up in our keylogger download*
+### *We can see the sample text we wrote out in the deployment test has shown up in our keylogger download.*
 
 <img width="743" alt="keylogged info" src="https://github.com/cKtheGrey/Anti-Theft-Laptop-Script/assets/116237908/6dc5ec71-4b69-4e3a-80d7-1a611f49f4c0">
 
 
 
-### *We can see that the auto webcam shot was taken without our thief noticing how ugly he looks*
+### *We can see that the auto webcam shot was taken without our thief noticing how ugly he looks.*
 
 <img width="962" alt="webcam shot 3" src="https://github.com/cKtheGrey/Anti-Theft-Laptop-Script/assets/116237908/1016de1f-aad5-4158-91f7-f09ee025f28a">
 
 
 
-### *The geolocation of our thief has been traced*
+### *The geolocation of our thief has been traced.*
 
 <img width="955" alt="geolocation" src="https://github.com/cKtheGrey/Anti-Theft-Laptop-Script/assets/116237908/9ba57de4-8222-4db9-9726-28dae635a50a">
 
 
 
-### *This customer bootloader image is our first line of defence, albeit a long shot*
+### *This customer bootloader image is our first line of defence, albeit a long shot.*
 ![bootloader_image](https://github.com/cKtheGrey/Anti-Theft-Laptop-Script/assets/116237908/103d0123-9477-4088-888a-0f296a9cc51e)
 
