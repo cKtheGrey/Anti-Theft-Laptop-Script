@@ -14,6 +14,7 @@ Test Deployment
 
 Auto Webcam Shot of Perpetrator
 ![] 
+<img width="962" alt="webcam shot 3" src="https://github.com/cKtheGrey/Anti-Theft-Laptop-Script/assets/116237908/1b13b452-c718-43de-955a-844b00d0e49f">
 
 
 
