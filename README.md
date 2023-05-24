@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=BQAJEMQqUxo&pp=ygUXYW50aSB0aGVmIGxhcHRvcCBzY3Jpc
 
 ### *Keylogged info Link*
 
-<img width="964" alt="email links" src="https://github.com/cKtheGrey/Anti-Theft-Laptop-Script/assets/116237908/4fd3af6f-6ed8-48f9-9fd1-7fc90ef416d1">
+<img width="964" alt="email links" src="https://github.com/cKtheGrey/Anti-Theft-Laptop-Script/assets/116237908/87819d56-2a0c-4400-9590-e1e76074c132">
 
 
 
