@@ -5,7 +5,7 @@ Test Deployment
 https://static.wixstatic.com/media/52e0f7_8c9f79f0d413420fab8c819aa0cf8c18~mv2.gif
 
 Auto Webcam Shot of Perpetrator
-[Alt text] (https://static.wixstatic.com/media/52e0f7_108378a928164fa1b6eb8d669ef3f0df~mv2.png/v1/crop/x_107,y_64,w_1392,h_230/fill/w_1592,h_264,al_c,lg_1,q_90,enc_auto/screen%201.png)
+[] (https://static.wixstatic.com/media/52e0f7_108378a928164fa1b6eb8d669ef3f0df~mv2.png/v1/crop/x_107,y_64,w_1392,h_230/fill/w_1592,h_264,al_c,lg_1,q_90,enc_auto/screen%201.png)
 
 
 
