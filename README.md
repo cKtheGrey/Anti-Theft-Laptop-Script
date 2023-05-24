@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=BQAJEMQqUxo&pp=ygUXYW50aSB0aGVmIGxhcHRvcCBzY3Jpc
 
 
 
-_*Auto Webcam Shot of Perpetrator*_
+#*Auto Webcam Shot of Perpetrator*#
 
 <img width="683" alt="auto webcam shot code" src="https://github.com/cKtheGrey/Anti-Theft-Laptop-Script/assets/116237908/99ca938a-f25e-47b4-93b2-7bee0c64997f">
 
