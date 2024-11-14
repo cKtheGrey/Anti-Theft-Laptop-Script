@@ -1,7 +1,7 @@
 # Anti-Theft-Laptop-Script
-The idea behind this script is to potentially catch a thief, and it does so by deploying a script automatically on log in (guest honeypot user). The script then takes a picture of the perpetrator from the webcam, automatically connects to the strongest wifi signal, gets the current geolocation, sends all this information to an email or SSH server instantly and then starts up a keylogger that will periodically send further information it attains, which can help us build a profile on this individual. There is also a built in custom bootloader image that might get noticed by computer repair shop, if the thief chooses to reformat right away and sell your laptop. 
+The purpose of this script is to potentially catch a thief by deploying automatically upon login through a guest honeypot user account. Once activated, it takes a picture of the perpetrator via the webcam, connects to the strongest Wi-Fi network, and collects the current geolocation. This data is then instantly sent via email or to an SSH server. Additionally, the script activates a keylogger that periodically sends updates, helping to build a profile of the individual. A custom bootloader image is also included, which could potentially be noticed by a computer repair shop if the thief attempts to reformat and resell the laptop.
 
-You can take a look at a video demonstration here: 
+Video Demonstration: 
 https://www.youtube.com/watch?v=BQAJEMQqUxo&pp=ygUXYW50aSB0aGVmIGxhcHRvcCBzY3JpcHQ%3D
 
 
