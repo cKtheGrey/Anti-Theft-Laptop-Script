@@ -71,6 +71,6 @@ https://www.youtube.com/watch?v=BQAJEMQqUxo&pp=ygUXYW50aSB0aGVmIGxhcHRvcCBzY3Jpc
 
 
 
-### *This customer bootloader image is our first line of defence, albeit a long shot.*
+### *This custom bootloader image is our secret line of defence, in the event it shows up to be reformated at a computer repair shop. A bit of a longshot but, better to have tried and failed.*
 ![bootloader_image](https://github.com/cKtheGrey/Anti-Theft-Laptop-Script/assets/116237908/103d0123-9477-4088-888a-0f296a9cc51e)
 
