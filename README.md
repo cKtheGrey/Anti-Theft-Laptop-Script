@@ -71,6 +71,6 @@ https://www.youtube.com/watch?v=BQAJEMQqUxo&pp=ygUXYW50aSB0aGVmIGxhcHRvcCBzY3Jpc
 
 
 
-### *This custom bootloader image is our secret line of defence, in the event it shows up to be reformated at a computer repair shop. A bit of a longshot but, better to have tried and failed.*
+### *This custom bootloader image is meant to serve as a secret failsafe, the implication being that you should verify by calling this number if the laptop isnt stolen or lost, in the event that it shows up to be reformated at a computer repair shop. A bit of a longshot but, better to have tried and failed.*
 ![bootloader_image](https://github.com/cKtheGrey/Anti-Theft-Laptop-Script/assets/116237908/103d0123-9477-4088-888a-0f296a9cc51e)
 
